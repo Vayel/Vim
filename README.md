@@ -1,3 +1,3 @@
 # Vim
 
-Files related to vim.
+Files related to Vim.
