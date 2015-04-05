@@ -18,6 +18,7 @@ set ts=2		" tab size
 set tabstop=2
 set shiftwidth=2
 set expandtab
+set colorcolumn=80
 
 colorscheme desert 
 
